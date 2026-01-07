@@ -1,3 +1,5 @@
+![Banner](./banner.jpg)
+
 # 👋 Hi, I'm Hashir Sheikh
 
 **Front-end Developer**
